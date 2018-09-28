@@ -7,7 +7,6 @@ from datetime import datetime
 import random
 import sqlite3
 from discord_hooks import Webhook
-import slackweb
 from threading import Thread
 import urllib.request
 
